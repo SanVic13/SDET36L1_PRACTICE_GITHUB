@@ -5,6 +5,7 @@ public class Practice01Test {
 	public static void main(String[] args) {
 
 		System.out.println("practice 01");
+		System.out.println("practice 02");
 	}
 
 }
